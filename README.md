@@ -6,3 +6,4 @@
  ^Backend | nodejs + mongodb
  =>Admin | vite + react
   - Setup the project
+  - Setup Routing
