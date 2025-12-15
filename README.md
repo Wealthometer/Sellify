@@ -7,3 +7,10 @@
  =>Admin | vite + react
   - Setup the project
   - Setup Routing
+  - Work on home screen
+  - edit screen
+- https://ui.aceternity.com/components/file-upload
+- https://ui.aceternity.com/components/signup-form
+- https://ui.shadcn.com/
+ @API Integration | rtq
+  -->
