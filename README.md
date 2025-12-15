@@ -1,1 +1,2 @@
  <!-- 
+ * async store & redux-persist -> to save data when restarting the app
